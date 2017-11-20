@@ -11,26 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title> Generate To Adapt: Aligning Domains using Generative Adversarial Networks</title>
-      <link>https://swamiviv.github.io/publication/gta/</link>
-      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://swamiviv.github.io/publication/gta/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Triplet Probabilistic Embedding for Face Verification and Clustering</title>
-      <link>https://swamiviv.github.io/publication/tpe/</link>
-      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://swamiviv.github.io/publication/tpe/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Regularizing deep networks with efficient layerwise adversarial training</title>
       <link>https://swamiviv.github.io/publication/adversarial_reg/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
@@ -51,12 +31,32 @@
     </item>
     
     <item>
+      <title> Generate To Adapt: Aligning Domains using Generative Adversarial Networks</title>
+      <link>https://swamiviv.github.io/publication/gta/</link>
+      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://swamiviv.github.io/publication/gta/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>https://swamiviv.github.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://swamiviv.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Triplet Probabilistic Embedding for Face Verification and Clustering</title>
+      <link>https://swamiviv.github.io/publication/tpe/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://swamiviv.github.io/publication/tpe/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

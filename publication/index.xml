@@ -11,26 +11,6 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title> Generate To Adapt: Aligning Domains using Generative Adversarial Networks</title>
-      <link>https://swamiviv.github.io/publication/gta/</link>
-      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://swamiviv.github.io/publication/gta/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Triplet Probabilistic Embedding for Face Verification and Clustering</title>
-      <link>https://swamiviv.github.io/publication/tpe/</link>
-      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://swamiviv.github.io/publication/tpe/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Regularizing deep networks with efficient layerwise adversarial training</title>
       <link>https://swamiviv.github.io/publication/adversarial_reg/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
@@ -46,6 +26,26 @@
       <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://swamiviv.github.io/publication/guided_perturbations/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Generate To Adapt: Aligning Domains using Generative Adversarial Networks</title>
+      <link>https://swamiviv.github.io/publication/gta/</link>
+      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://swamiviv.github.io/publication/gta/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Triplet Probabilistic Embedding for Face Verification and Clustering</title>
+      <link>https://swamiviv.github.io/publication/tpe/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://swamiviv.github.io/publication/tpe/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
