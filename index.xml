@@ -6,9 +6,18 @@
     <description>Recent content in Academic on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <copyright>&amp;copy; 2017 swamiviv</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title> Unsupervised Domain Adaptation for Semantic Segmentation with GANs</title>
+      <link>https://swamiviv.github.io/publication/gta_seg/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://swamiviv.github.io/publication/gta_seg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Regularizing deep networks with efficient layerwise adversarial training</title>
@@ -16,8 +25,7 @@
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://swamiviv.github.io/publication/adversarial_reg/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,8 +44,7 @@
       <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://swamiviv.github.io/publication/gta/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -51,13 +58,21 @@
     </item>
     
     <item>
+      <title>An All-In-One Convolutional Neural Network for Face Analysis</title>
+      <link>https://swamiviv.github.io/publication/ultraface/</link>
+      <pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://swamiviv.github.io/publication/ultraface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Triplet Probabilistic Embedding for Face Verification and Clustering</title>
       <link>https://swamiviv.github.io/publication/tpe/</link>
       <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://swamiviv.github.io/publication/tpe/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
